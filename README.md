@@ -5,7 +5,6 @@
 <h4>Click the button below to deploy MusicZaen on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/ZaenXP/MusicZaen"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="5000""/></a>
 
-<img src="https://telegra.ph/file/31dd73ae3012ca30803f9.jpg">
 
 
 
